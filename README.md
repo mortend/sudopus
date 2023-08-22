@@ -1,0 +1,2 @@
+# sudopus
+Utility for macOS
